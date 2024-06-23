@@ -1,3 +1,4 @@
+---
 # React Admin Dashboard
 
 A customizable React Admin Dashboard with themes, tables, charts, calendar, and Kanban board for a seamless user experience.
