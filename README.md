@@ -17,7 +17,7 @@ Follow these steps to get the project up and running on your local machine.
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm (v6 or higher) or yarn (v1.22 or higher)
+- npm (v6 or higher)
 
 ### Installation
 
