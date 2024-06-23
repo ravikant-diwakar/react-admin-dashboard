@@ -2,7 +2,7 @@
 
 A customizable React Admin Dashboard with themes, tables, charts, calendar, and Kanban board for a seamless user experience.
 
-## Features
+## 
 
 - **Customizable Themes**: Choose from a variety of themes to match your style.
 - **Dynamic Tables**: Create and manage data tables with ease.
