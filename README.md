@@ -22,7 +22,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ### Installation
 
- Clone the repository:
+ Clone the repository
    ```bash
    git clone https://github.com/ravikant-diwakar/react-admin-dashboard.git
    ```
