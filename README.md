@@ -30,7 +30,7 @@ Follow these steps to get the project up and running on your local machine.
    ```bash
    cd react-admin-dashboard
    ```
- Install the dependencies:
+ Install the dependencies
    ```bash
    npm install
    ```
