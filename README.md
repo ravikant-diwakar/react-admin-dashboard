@@ -36,7 +36,7 @@ Follow these steps to get the project up and running on your local machine.
    ```
 ### Running the App
 
- Start the development server:
+ Start the development server
    ```bash
    npm start
    ```
