@@ -26,7 +26,7 @@ Follow these steps to get the project up and running on your local machine.
    ```bash
    git clone https://github.com/ravikant-diwakar/react-admin-dashboard.git
    ```
- Navigate to the project directory:
+ Navigate to the project directory
    ```bash
    cd react-admin-dashboard
    ```
